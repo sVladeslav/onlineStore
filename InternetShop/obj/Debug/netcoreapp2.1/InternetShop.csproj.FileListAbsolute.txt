@@ -1,0 +1,14 @@
+D:\asp\InternetShop\InternetShop\obj\Debug\netcoreapp2.1\InternetShop.csprojAssemblyReference.cache
+D:\asp\InternetShop\InternetShop\obj\Debug\netcoreapp2.1\InternetShop.csproj.CoreCompileInputs.cache
+D:\asp\InternetShop\InternetShop\obj\Debug\netcoreapp2.1\InternetShop.RazorAssemblyInfo.cache
+D:\asp\InternetShop\InternetShop\obj\Debug\netcoreapp2.1\InternetShop.RazorAssemblyInfo.cs
+D:\asp\InternetShop\InternetShop\obj\Debug\netcoreapp2.1\InternetShop.AssemblyInfoInputs.cache
+D:\asp\InternetShop\InternetShop\obj\Debug\netcoreapp2.1\InternetShop.AssemblyInfo.cs
+D:\asp\InternetShop\InternetShop\bin\Debug\netcoreapp2.1\InternetShop.deps.json
+D:\asp\InternetShop\InternetShop\bin\Debug\netcoreapp2.1\InternetShop.runtimeconfig.json
+D:\asp\InternetShop\InternetShop\bin\Debug\netcoreapp2.1\InternetShop.runtimeconfig.dev.json
+D:\asp\InternetShop\InternetShop\bin\Debug\netcoreapp2.1\InternetShop.dll
+D:\asp\InternetShop\InternetShop\bin\Debug\netcoreapp2.1\InternetShop.pdb
+D:\asp\InternetShop\InternetShop\obj\Debug\netcoreapp2.1\InternetShop.RazorTargetAssemblyInfo.cache
+D:\asp\InternetShop\InternetShop\obj\Debug\netcoreapp2.1\InternetShop.dll
+D:\asp\InternetShop\InternetShop\obj\Debug\netcoreapp2.1\InternetShop.pdb
